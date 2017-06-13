@@ -1,7 +1,7 @@
 title: mcosta74.github.io
 description: Massimo's Personal Page
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
