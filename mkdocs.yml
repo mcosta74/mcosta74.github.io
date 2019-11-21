@@ -1,0 +1,5 @@
+site_name: Massimo Costa's Personal Page
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
