@@ -29,4 +29,4 @@ jobs:
         pip-sync
     - name: Build pages
       run: |
-        mkdocs gh-pages --remote-branch master
+        mkdocs gh-deploy --remote-branch master
