@@ -1,4 +1,11 @@
 site_name: Massimo Costa's Personal Page
+site_author: Massimo Costa
+
+copyright: Copyright &copy; 2022, Massimo Costa
+
+theme:
+  name: 'material'
+
 nav:
   - Home: index.md
   - About: about.md
