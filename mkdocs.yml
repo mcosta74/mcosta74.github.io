@@ -7,6 +7,5 @@ theme:
   name: 'material'
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Projects: projects.md
+  - About Me: about.md
+  - My Projects: projects.md
